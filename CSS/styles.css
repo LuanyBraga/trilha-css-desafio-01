@@ -1,0 +1,20 @@
+@import url(reset.css);
+
+body {
+    background-color: #445270be;
+}
+h2 {
+    font-size: 3rem;
+    color: #73c7e9;
+    font-weight: lighter;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+p {
+    color: papayawhip;
+
+}
+section {
+    margin: 160px auto;
+}
