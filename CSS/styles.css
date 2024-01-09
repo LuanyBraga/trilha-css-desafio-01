@@ -1,22 +1,22 @@
 @import url(reset.css);
 
 body {
-    background-color: #445270be;
+    background-color: black;
 }
 h2 {
-    font-size: 3rem;
-    color: #73c7e9;
-    font-weight: lighter;
+    font-size: 2rem;
+    color: #33A8DB;
+    font-weight: bold;
     letter-spacing: 4px;
     text-transform: uppercase;
-    margin-bottom: 25px;
+    margin-bottom: 24px;
 }
 p {
-    color: papayawhip;
+    color: white;
 
 }
 section {
-    margin: 160px auto;
+    margin: 100px auto;
 }
 .banner {
     background-image: linear-gradient(rgba(0,0,0, .6), rgba(49,168,221, .2), rgba(0,0,0, .6), url('../assets/images/banner.png'));
@@ -113,4 +113,18 @@ section {
 }
 #professional-challenges img {
     margin: 32px 0;
+}
+footer {
+    padding: 60px 0;
+    text-align: center;
+    background-image: linear-gradient(rgba(50 168 219 .0), rgba(50 168 219 .2));
+    border-top: 1px solid #33A8DB80;
+}
+footer .dio-logo {
+    width: 300px;
+}
+footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
 }
