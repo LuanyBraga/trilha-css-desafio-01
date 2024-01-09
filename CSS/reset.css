@@ -5,3 +5,10 @@
   box-sizing: border-box;
   margin: 0;
 }
+body {
+	display: block;
+	margin: 8px;
+}
+div {
+	display: block;
+}
