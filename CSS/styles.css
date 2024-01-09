@@ -75,10 +75,10 @@ section {
     width: 800px;
     text-align: center;
 }
-#course-content .modiles-list {
+#course-content .modules-list {
     margin: 24px 0;
 }
-#course-content .modiles-list .module {
+#course-content .modules-list .module {
     color: white;
     width: 530px;
     margin: 0 auto 24px;
@@ -87,4 +87,7 @@ section {
     padding: 16px;
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
+#course-content .modules-list .module span {
+    color: #33A8DB;
 }
