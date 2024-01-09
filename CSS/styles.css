@@ -60,3 +60,31 @@ section {
     height: 100%;
     object-fit: contain;
 }
+.banner .banner-content button {
+    color: #31A8DD;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 16px 32px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image-slice: 10;
+    border-radius: 30px;
+}
+#curse-content {
+    width: 800px;
+    text-align: center;
+}
+#curse-content .modiles-list {
+    margin: 24px 0;
+}
+#curse-content .modiles-list .module {
+    color: white;
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #33A8DB;
+    background-color: #252525;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
