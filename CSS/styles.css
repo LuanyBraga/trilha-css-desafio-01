@@ -71,14 +71,14 @@ section {
     border-image-slice: 10;
     border-radius: 30px;
 }
-#curse-content {
+#course-content {
     width: 800px;
     text-align: center;
 }
-#curse-content .modiles-list {
+#course-content .modiles-list {
     margin: 24px 0;
 }
-#curse-content .modiles-list .module {
+#course-content .modiles-list .module {
     color: white;
     width: 530px;
     margin: 0 auto 24px;
